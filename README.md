@@ -1,5 +1,5 @@
 # Cipher-Master
-Cipher master adalah aplikasi yang dapat membantu proses enkripsi dan dekripsi pesan dengan kunci yang diinputkan secara langsung, dengan ketentuan bahwa panjang kunci minimal 12 karakter. Pengguna dapat mengunggah pesan dalam bentuk file teks berformat .txt atau dapat menginputkan pesan di kolom teks yang sudah tersedia. Algoritma cipher yang terdapat di aplikasi ini yaitu: Vigenere, Playfair, dan Hill Cipher.
+Cipher master adalah program yang dapat membantu proses enkripsi dan dekripsi pesan dengan kunci yang diinputkan secara langsung, dengan ketentuan bahwa panjang kunci minimal 12 karakter. Pengguna dapat mengunggah pesan dalam bentuk file teks berformat .txt atau dapat menginputkan pesan di kolom teks yang sudah tersedia. Algoritma cipher yang terdapat di aplikasi ini yaitu: Vigenere, Playfair, dan Hill Cipher.
 
 ## Cara Menjalankan Program
    1. **Unduh atau Kloning Repositori**:
